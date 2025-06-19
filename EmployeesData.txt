@@ -1,1 +1,7 @@
-
+| Name          | Email                         | Phone Number   | Address                     | Designation       |
+| ------------- | ----------------------------- | -------------- | --------------------------- | ----------------- |
+| Alice Johnson | alice.johnson@example.com     | (123) 456-7890 | 123 Maple St, Denver, CO    | Software Engineer |
+| Bob Martinez  | bob.martinez@example.com      | (234) 567-8901 | 456 Oak Ave, Austin, TX     | Project Manager   |
+| Clara Singh   | clara.singh@example.com       | (345) 678-9012 | 789 Pine Rd, San Diego, CA  | QA Analyst        |
+| David Kim     | david.kim@example.com         | (456) 789-0123 | 321 Birch Blvd, Seattle, WA | DevOps Engineer   |
+| Eva Thompson  | eva.thompson@example.com      | (567) 890-1234 | 654 Cedar Dr, Portland, OR  | UI/UX Designer    |
